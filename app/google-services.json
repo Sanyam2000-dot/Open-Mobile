@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537741826237",
+    "firebase_url": "https://open-mobile-fa274.firebaseio.com",
+    "project_id": "open-mobile-fa274",
+    "storage_bucket": "open-mobile-fa274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537741826237:android:7fcda2fd0f87af7cc83fd4",
+        "android_client_info": {
+          "package_name": "com.akash.open"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537741826237-2rvvvqsla9nt5vbnnv4fi92126rl6mqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akash.open",
+            "certificate_hash": "6ac2e5a039564b98f885f080bacab849b1f261e0"
+          }
+        },
+        {
+          "client_id": "537741826237-52es0n9kke68alpcitvp80qde16c8c2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5eQ14gUrCMte1XYmqNrTelC5CZgu6n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537741826237-52es0n9kke68alpcitvp80qde16c8c2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
