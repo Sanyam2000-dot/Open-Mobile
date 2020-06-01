@@ -16,8 +16,12 @@ Stay up to date on the latest news, events, and community projects with the OPEN
 ### Other Activities
 <img src="https://user-images.githubusercontent.com/46739435/83399262-870d6e80-a41e-11ea-9cdb-66c8f50d3414.png" width="299" height="600" /><img src="https://user-images.githubusercontent.com/46739435/83399286-912f6d00-a41e-11ea-8441-f9b6b8515b12.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="299" height="600" /><img src="https://user-images.githubusercontent.com/46739435/83399290-92f93080-a41e-11ea-872e-ff197f7407d1.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="299" height="600" />
 
-## For Contribution
+## For Contribution and Build details
 see documentation [here](CONTRIBUTING.md)
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1280px-Google_Play_Store_badge_EN.svg.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="320" height="95" />
+
+<p align="center">
+<a ><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="50%"/></a>
+</p>
+
