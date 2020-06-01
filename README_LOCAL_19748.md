@@ -8,16 +8,16 @@ Stay up to date on the latest news, events, and community projects with the OPEN
 * Catch up on the latest news.
 * Participate in all kinds of events.
 * Stay updated with OPEN's gallery.
-* Join OPEN community.
+* Get to know about On-going projects.
 
-### Login Screen & Home Screen
-<img src="https://user-images.githubusercontent.com/46739435/81595842-c11bbf80-93e0-11ea-8f09-4c07192829c9.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" /><img src="https://user-images.githubusercontent.com/46739435/81596106-24a5ed00-93e1-11ea-9585-24e9cf790f38.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" />
+### Home Screen
+<img src="https://user-images.githubusercontent.com/46739435/83399088-38f86b00-a41e-11ea-9edd-9dcab7ff0d13.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" />
 
 ### Other Activities
-<img src="https://user-images.githubusercontent.com/46739435/81596358-8f572880-93e1-11ea-86a4-ddda800a4e9e.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" /><img src="https://user-images.githubusercontent.com/46739435/81596431-b31a6e80-93e1-11ea-8351-b2126a230c0f.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" /><img src="https://user-images.githubusercontent.com/46739435/81596480-caf1f280-93e1-11ea-938f-4c2cc59a3384.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/46739435/83399262-870d6e80-a41e-11ea-9cdb-66c8f50d3414.png" width="299" height="600" /><img src="https://user-images.githubusercontent.com/46739435/83399286-912f6d00-a41e-11ea-8441-f9b6b8515b12.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="299" height="600" /><img src="https://user-images.githubusercontent.com/46739435/83399290-92f93080-a41e-11ea-872e-ff197f7407d1.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="299" height="600" />
 
 ## For Contribution
 see documentation [here](CONTRIBUTING.md)
 
-## Download Link
-https://drive.google.com/open?id=1bR4EkNwqtN5mlH1c1MlcUuotGcrgZ2Eo
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1280px-Google_Play_Store_badge_EN.svg.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="320" height="95" />

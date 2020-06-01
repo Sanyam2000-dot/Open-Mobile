@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/879437a0c54ef50b9f2b51c3d6f0e33c/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/akash/Desktop/Open-Mobile/Open-Mobile/.android/Flutter/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/akash/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]

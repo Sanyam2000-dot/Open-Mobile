@@ -1,2 +1,9 @@
-include ':app'
-rootProject.name='OPEN'
+import javax.naming.Binding
+
+// Generated file. Do not edit.
+include ':open_andoird'
+//setBinding(new Binding([gradle: this]))
+//evaluate(new File(
+//        settingsDir.parentFile,
+//        '/home/akash/Desktop/Flutter/open_flutter/.android/include_flutter.groovy'
+//))
